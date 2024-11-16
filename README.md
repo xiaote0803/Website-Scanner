@@ -6,9 +6,9 @@
 
 ## 前置作業
 ```bash
-pip install requests colorama
+pip install -r requirements.txt 
 ```
 
 ## 注意事項
-1. **可新增更多路徑至`paths.json`。**
-2. **執行 `crawler.cmd` 以開始程式。**
+1. 可新增更多路徑至`paths.json`。
+2. 執行 `crawler.cmd` 以開始程式。
